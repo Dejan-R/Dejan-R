@@ -1,4 +1,3 @@
-# #realembeddednotbullshit
+Electrical Engineer (dipl. ing. el.) | Electrical Engineering Teacher
 
-Electrical Engineering & Computing teacher  
 Working on Embedded & IoT projects
